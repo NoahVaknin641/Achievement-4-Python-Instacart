@@ -1,8 +1,8 @@
 # Achievement-4-Python-project
-*** Objective: ***
+***Objective:***
 The purpose of this project is to perform an exploratory data analysis (EDA) on Instacart's sales data to uncover insights about customer behaviors and purchasing patterns. These insights will support the marketing and sales teams in designing effective strategies to optimize advertising, product placement, and customer targeting.
 
-** Key Stakeholder Questions: **
+**Key Stakeholder Questions:**
 Busiest Days and Times for Orders:
 
 Which days of the week have the most orders?
